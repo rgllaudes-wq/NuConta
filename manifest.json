@@ -2,7 +2,7 @@
   "name": "NuConta — Gestión Financiera",
   "short_name": "NuConta",
   "description": "Gestión financiera personal — controla ingresos, gastos, cuentas y categorías de forma privada y sin conexión.",
-  "start_url": "/",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f1f5f9",
   "theme_color": "#1e3a5f",
